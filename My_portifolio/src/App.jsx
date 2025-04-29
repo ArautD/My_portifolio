@@ -3,7 +3,7 @@ import Home from './pages/Home'
 import Sobre from './pages/Sobre'
 import Projetos from './pages/Projetos'
 import Contato from './pages/Contato'
-import Header from './components/Header'
+import Header from './components/header'
 
 function App() {
   return (
